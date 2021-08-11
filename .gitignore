@@ -1,0 +1,6 @@
+tmp/
+Thumbs.db
+.Ds_Store
+*_old
+*_backup
+.idea
